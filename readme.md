@@ -15,4 +15,4 @@ The AI revolution is transforming how people engage with visual media lightning-
 
 1. Grab your API environment variable from you account Programmable Media dashboard and paste it into the `.env` file
 2. Run `npm install` to install the dependencies in `package.json`
-3. Run `start.js` to upload all the images we will be working with
+3. Run `node start.js` to upload all the images we will be working with
