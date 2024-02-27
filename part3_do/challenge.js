@@ -9,6 +9,15 @@ cloudinary.config({
 });
 
 ////////////////////////////////////////////
+// CHALLENGES
+// Pick from one of the three challenges below.
+// There is an additional challenge for each if you would
+// like to test your skills further.
+// Comment out (cmd or ctrl +/) the other code starters
+// before running the file.
+////////////////////////////////////////////
+
+////////////////////////////////////////////
 // CHALLENGE OPTION 1
 // Use the provided image to recolor the shoes to a color of your choice
 //
