@@ -11,6 +11,7 @@ cloudinary.config({
 ////////////////////////////////////////////
 // Generative Caption
 // Use Gen Caption to automatically create a caption for this image
+// Reference: https://cloudinary.com/documentation/cloudinary_ai_content_analysis_addon#ai_based_image_captioning
 cloudinary.api
   .update("pe-ai-vilt/ai_practice_medical", {})
   .then((result) => console.log(result.info.detection.captioning));

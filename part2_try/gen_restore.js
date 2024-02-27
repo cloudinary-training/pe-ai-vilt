@@ -11,4 +11,5 @@ cloudinary.config({
 ////////////////////////////////////////////
 // Generative Restore
 // Use Gen Restore to restore the given image
+// Reference: https://cloudinary.com/documentation/ai_in_action#generative_restore
 console.log(cloudinary.image("pe-ai-vilt/ai_practice_clothing", {}));

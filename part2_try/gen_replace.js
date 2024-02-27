@@ -11,4 +11,5 @@ cloudinary.config({
 ////////////////////////////////////////////
 // Generative Replace
 // Replace the cocktail with coffee
+// Reference: https://cloudinary.com/documentation/ai_in_action#generative_replace
 console.log(cloudinary.image("pe-ai-vilt/ai_practice_cocktail", {}));
