@@ -39,7 +39,7 @@ console.log(cloudinary.image("pe-ai-vilt/ai_practice_challenge_working", {}));
 
 ////////////////////////////////////////////
 // CHALLENGE OPTION 3
-// Use the provided image to recolor the shoes to a color of your choice
+// Use the provided image to replace the sunglasses to an item of your choice
 //
 // For an additional challenge, add in a second transformation to also create
 // a thumbnail of the image to a width of 400 with an AR of 4:5 and set gravity to auto
